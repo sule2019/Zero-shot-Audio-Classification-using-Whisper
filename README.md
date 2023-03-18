@@ -1,6 +1,6 @@
 # Zero-shot-Audio-Classification-using-Whisper
 
-This GitHub repository contains code for zero-shot audio classification using whispers in Turkish. The objective of this project is to classify audio signals based on their content without the need for any prior training on specific keywords or phrases. 
+This GitHub repository contains code for zero-shot audio classification using open ai whisper. The objective of this project is to classifify turkish background noises to build a closed-captioning model.
 
 It performs this in 2 steps
 1. Classify the background noise in English in a zero-shot setting using the average log probabilities
